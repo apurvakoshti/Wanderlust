@@ -18,3 +18,16 @@ WanderLust is a full-stack web platform designed to facilitate travel experience
 
 ## Screenshot
 <img src="assets/1.png" alt="Property Image">
+- User Interface of the website.
+<img src="assets/2.png" alt="Property Image">
+- SignUp Page.
+<img src="assets/3.png" alt="Property Image">
+- Create a new Listing
+<img src="assets/4.png" alt="Property Image">
+<img src="assets/5.png" alt="Property Image">
+<img src="assets/6.png" alt="Property Image">
+- Login Page.
+<img src="assets/7.png" alt="Property Image">
+- To Leave a Review.
+<img src="assets/8.png" alt="Property Image">
+- Review is created.
